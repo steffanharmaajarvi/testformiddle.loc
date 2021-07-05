@@ -1,0 +1,4 @@
+cat .gitignore
+
+/vendor
+/node_modules
